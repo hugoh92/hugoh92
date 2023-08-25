@@ -24,9 +24,13 @@
   <img align="center alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<p align="center">
+
+ <div style="align-items: center;
+      justify-content: center;
+      align-self: center;
+      text-align: center;">
   
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)]
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)
   
 </p>
 
