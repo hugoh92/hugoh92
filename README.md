@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá, sou Hugo Henrique 👋
 
+
+### Tecnlogias que trabalho no dia a dia
+<div style="display: inline_block"><br/>
+<img align="center alt="html5" https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
+
+  
+</div>
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **hugoh92/hugoh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
