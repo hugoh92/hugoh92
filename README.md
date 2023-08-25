@@ -22,7 +22,7 @@
   <img align="center alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)](https://github.com/hugoh92/github-readme-stats)
   
 </div>
 
