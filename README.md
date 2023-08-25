@@ -1,5 +1,6 @@
-### Olá, sou Hugo Henrique 👋
-
+### Olá, sou Hugo Henrique Desenvolvedor Front-End👋
+ <a href = "mailto:hugoholiveira45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hugo-oliveira-b921691a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Tecnlogias que trabalho no dia a dia
 <div style="display: inline_block">
@@ -21,10 +22,13 @@
   <img align="center alt="sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)](https://github.com/hugoh92/github-readme-stats)
-  
 </div>
+
+<p align="center">
+  
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh92&layout=compact)]
+  
+</p>
 
 
 
